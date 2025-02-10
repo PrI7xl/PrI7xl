@@ -1,12 +1,13 @@
-- 👋 Hi, I’m @PrI7xl
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Claro! Aqui está o texto ajustado conforme suas solicitações:
 
-<!---
-PrI7xl/PrI7xl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+👋 Hi, I’m @PrI7xl  
+👀 I’m interested in evolving in technology.  
+🌱 I’m currently learning at the University of Information Technology Management.  
+💞️ I’m looking to collaborate with a technology company.  
+📫 How to reach me: You can email me at iagon058@gmail.com.  
+
+---
+
+
